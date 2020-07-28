@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(252, 157, 220);
+    color: black;
+    font-family: georgia, 'times new roman', serif; 
+}
+
+.primary-heading {
+    color: rgb(39, 153, 224);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.center-this {
+    text-align: center;
+}
+
+
+
